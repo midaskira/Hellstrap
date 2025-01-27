@@ -19,7 +19,7 @@ namespace Hellstrap
         public const string ProjectName = "Hellstrap";
 #endif
         public const string ProjectOwner = "Hellstrap";
-        public const string ProjectRepository = "midaskira/Hellstrap";
+        public const string ProjectRepository = "https://api.github.com/repos/midaskira/Hellstrap";
         public const string ProjectDownloadLink = "https://github.com/midaskira/Hellstrap/releases";
         public const string ProjectHelpLink = "https://github.com/bloxstraplabs/bloxstrap/wiki";
         public const string ProjectSupportLink = "https://github.com/midaskira/Hellstrap/issues/new";
@@ -132,7 +132,7 @@ namespace Hellstrap
 
             try
             {
-                var releaseInfo = await Http.GetJson<GithubRelease>($"https://api.github.com/repos/{ProjectRepository}/releases/latest");
+                var releaseInfo = await Http.GetJson<GithubRelease>($"{ProjectRepository}/releases/latest/");
 
                 if (releaseInfo is null || releaseInfo.Assets is null)
                 {
