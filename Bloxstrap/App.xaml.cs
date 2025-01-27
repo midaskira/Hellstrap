@@ -22,7 +22,7 @@ namespace Hellstrap
         public const string ProjectRepository = "midaskira/Hellstrap";
         public const string ProjectDownloadLink = "https://github.com/midaskira/Hellstrap/releases";
         public const string ProjectHelpLink = "https://github.com/bloxstraplabs/bloxstrap/wiki";
-        public const string ProjectSupportLink = "github.com/midaskira/Hellstrap/issues/new";
+        public const string ProjectSupportLink = "https://github.com/midaskira/Hellstrap/issues/new";
 
         public const string RobloxPlayerAppName = "RobloxPlayerBeta";
         public const string RobloxStudioAppName = "RobloxStudioBeta";
