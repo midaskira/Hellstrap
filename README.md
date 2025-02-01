@@ -67,11 +67,11 @@ Hellstrap is an advanced fork of Bloxstrap, aiming to enhance and expand feature
 
 ---
 
-## V1.0.0.0 Screenshots
+## V1.0.0.9 Screenshots
 <p align="center">
-    <img src="https://i.imgur.com/AnLNDBQ.png" alt="Screenshot 1">
-    <img src="https://i.imgur.com/w9zev6X.png" alt="Screenshot 2">
-    <img src="https://i.imgur.com/lAiK7O8.png" alt="Screenshot 3">
+   <img src="https://i.imgur.com/5lMtLOW.png" alt="Screenshot 1">
+    <img src="https://i.imgur.com/cFBmtfO.png" alt="Screenshot 2">
+    <img src="https://i.imgur.com/xYTZU7x.png" alt="Screenshot 3">
 </p>
 
 
