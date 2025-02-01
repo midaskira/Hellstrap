@@ -1,9 +1,10 @@
 <p align="center">
-    <img src="https://github.com/midaskira/Hellstrap/raw/main/Images/Hellstrap-full-dark.png#gh-dark-mode-only" width="500">
-    <img src="https://github.com/midaskira/Hellstrap/raw/main/Images/Hellstrap-full-light.png#gh-light-mode-only" width="500">
+    <img src="https://github.com/midaskira/Hellstrap/raw/main/Images/Hellstrap-full-dark.png#gh-dark-mode-only" width="380">
+    <img src="https://github.com/midaskira/Hellstrap/raw/main/Images/Hellstrap-full-light.png#gh-light-mode-only" width="380">
 </p>
 
 <div align="center">
+
 [![License][shield-repo-license]][repo-license]
 [![Downloads][shield-repo-releases]][repo-releases]
 [![Version][shield-repo-latest]][repo-latest]
