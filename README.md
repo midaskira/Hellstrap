@@ -8,12 +8,21 @@ Hellstrap is an advanced fork of **Bloxstrap**, designed to enhance your Roblox 
 </p>
 
 <div align="center">
-  [![License](https://img.shields.io/github/license/midaskira/Hellstrap?style=flat-square)](https://github.com/midaskira/Hellstrap/blob/main/LICENSE)
-  [![Downloads](https://img.shields.io/github/downloads/midaskira/Hellstrap/latest/total?color=981bfe&style=flat-square)](https://github.com/midaskira/Hellstrap/releases)
-  [![Version](https://img.shields.io/github/v/release/midaskira/Hellstrap?color=7a39fb&style=flat-square)](https://github.com/midaskira/Hellstrap/releases/latest)
-  [![Discord](https://img.shields.io/discord/1327967202015580223?logo=discord&logoColor=white&label=Discord&color=4d3dff&style=flat-square)](https://discord.gg/UuxcfqPNnA)
-  ![Star](https://img.shields.io/github/stars/midaskira/Hellstrap?color=dd9900&style=flat-square)
+  <a href="https://github.com/midaskira/Hellstrap/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/midaskira/Hellstrap?style=flat-square" />
+  </a>
+  <a href="https://github.com/midaskira/Hellstrap/releases">
+    <img src="https://img.shields.io/github/downloads/midaskira/Hellstrap/latest/total?color=981bfe&style=flat-square" />
+  </a>
+  <a href="https://github.com/midaskira/Hellstrap/releases/latest">
+    <img src="https://img.shields.io/github/v/release/midaskira/Hellstrap?color=7a39fb&style=flat-square" />
+  </a>
+  <a href="https://discord.gg/UuxcfqPNnA">
+    <img src="https://img.shields.io/discord/1327967202015580223?logo=discord&logoColor=white&label=Discord&color=4d3dff&style=flat-square" />
+  </a>
+  <img src="https://img.shields.io/github/stars/midaskira/Hellstrap?color=dd9900&style=flat-square" />
 </div>
+
 
 
 ## Ready to Switch?
