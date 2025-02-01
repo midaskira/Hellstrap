@@ -52,7 +52,6 @@ Hellstrap is Better fork of **Bloxstrap**, designed to enhance your Roblox exper
 #### **Channels**
 - Channel changer for version selection.
 - Cancel Roblox upgrades.
-- Download specific channels using version hashes.
 
 #### **Bootstrapper**
 - Ansel support for Roblox client.
