@@ -1,6 +1,6 @@
 <p align="center">
-    <img src="https://github.com/midaskira/Hellstrap/raw/main/Images/Hellstrap-full-dark.png#gh-dark-mode-only" width="420">
-    <img src="https://github.com/midaskira/Hellstrap/raw/main/Images/Hellstrap-full-light.png#gh-light-mode-only" width="420">
+    <img src="https://github.com/midaskira/Hellstrap/raw/main/Images/Hellstrap-full-dark.png#gh-dark-mode-only" width="500">
+    <img src="https://github.com/midaskira/Hellstrap/raw/main/Images/Hellstrap-full-light.png#gh-light-mode-only" width="500">
 </p>
 
 <div align="center">
