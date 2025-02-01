@@ -1,6 +1,6 @@
-# Hellstrap - A Powerful Fork of Bloxstrap for Roblox Customization
+# Hellstrap - A Better Fork of Bloxstrap for Roblox Customization
 
-Hellstrap is an advanced fork of **Bloxstrap**, designed to enhance your Roblox experience with additional features like **fast flags**, **custom menus**, and more. Perfect for anyone looking for more control and flexibility while using Roblox.
+Hellstrap is Better fork of **Bloxstrap**, designed to enhance your Roblox experience with additional features and fixes
 
 <p align="center">
     <img src="https://github.com/midaskira/Hellstrap/raw/main/Images/Hellstrap-full-dark.png#gh-dark-mode-only" width="420" alt="Hellstrap Dark Mode">
