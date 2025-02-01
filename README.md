@@ -8,12 +8,13 @@ Hellstrap is an advanced fork of **Bloxstrap**, designed to enhance your Roblox 
 </p>
 
 <div align="center">
-  [![License][shield-repo-license]](https://github.com/midaskira/Hellstrap/blob/main/LICENSE)
-  [![Downloads][shield-repo-releases]](https://github.com/midaskira/Hellstrap/releases)
-  [![Version][shield-repo-latest]](https://github.com/midaskira/Hellstrap/releases/latest)
-  [![Discord][shield-discord-server]](https://discord.gg/UuxcfqPNnA)
-  ![Star][shield-repo-stars]
+  [![License](https://img.shields.io/github/license/midaskira/Hellstrap?style=flat-square)](https://github.com/midaskira/Hellstrap/blob/main/LICENSE)
+  [![Downloads](https://img.shields.io/github/downloads/midaskira/Hellstrap/latest/total?color=981bfe&style=flat-square)](https://github.com/midaskira/Hellstrap/releases)
+  [![Version](https://img.shields.io/github/v/release/midaskira/Hellstrap?color=7a39fb&style=flat-square)](https://github.com/midaskira/Hellstrap/releases/latest)
+  [![Discord](https://img.shields.io/discord/1327967202015580223?logo=discord&logoColor=white&label=Discord&color=4d3dff&style=flat-square)](https://discord.gg/UuxcfqPNnA)
+  ![Star](https://img.shields.io/github/stars/midaskira/Hellstrap?color=dd9900&style=flat-square)
 </div>
+
 
 ## Ready to Switch?
 [Download Hellstrap here](https://github.com/midaskira/Hellstrap/releases) to enhance your Roblox experience with added features and customization.
