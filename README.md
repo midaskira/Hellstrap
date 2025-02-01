@@ -4,7 +4,6 @@
 </p>
 
 <div align="center">
-
 [![License][shield-repo-license]][repo-license]
 [![Downloads][shield-repo-releases]][repo-releases]
 [![Version][shield-repo-latest]][repo-latest]
