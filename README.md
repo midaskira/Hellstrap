@@ -70,7 +70,7 @@ Hellstrap is an advanced fork of **Bloxstrap**, designed to enhance your Roblox 
 
 ---
 
-## V1.0.1.0 Screenshots
+## V1.0.0.9 Screenshots
 <p align="center">
     <img src="https://i.imgur.com/5lMtLOW.png" alt="Hellstrap interface screenshot 1">
     <img src="https://i.imgur.com/cFBmtfO.png" alt="Hellstrap interface screenshot 2">
