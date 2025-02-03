@@ -4,7 +4,7 @@ Hellstrap is a better fork of **Bloxstrap**, designed to enhance your Roblox exp
 
 <p align="center">
    <img src="https://github.com/midaskira/Hellstrap/raw/main/Images/Hellstrap-full-light.png" width="420" alt="Hellstrap Light Mode">
-   <img src="https://github.com/midaskira/Hellstrap/raw/main/Images/Hellstrap-full-dark.png#gh-dark-mode-only" width="420" alt="Hellstrap Dark Mode">
+   <img src="https://github.com/midaskira/Hellstrap/raw/main/Images/Hellstrap-full-dark.png" width="420" alt="Hellstrap Dark Mode">
 </p>
 
 <div align="center">
