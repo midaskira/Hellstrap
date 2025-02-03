@@ -1,10 +1,10 @@
 # Hellstrap - A Better Fork of Bloxstrap for Roblox Customization
 
-Hellstrap is Better fork of **Bloxstrap**, designed to enhance your Roblox experience with additional features and fixes
+Hellstrap is a better fork of **Bloxstrap**, designed to enhance your Roblox experience with additional features and fixes.
 
 <p align="center">
-   <img src="[https://github.com/midaskira/Hellstrap/raw/main/Images/Hellstrap-full-dark.png#gh-dark-mode-only](https://github.com/midaskira/Hellstrap/raw/main/Images/Hellstrap-full-light.png#gh-light-mode-only)" width="420" alt="Hellstrap Dark Mode">
-    <img src="https://github.com/midaskira/Hellstrap/raw/main/Images/Hellstrap-full-light.png#gh-light-mode-only" width="420" alt="Hellstrap Light Mode">
+   <img src="https://github.com/midaskira/Hellstrap/raw/main/Images/Hellstrap-full-light.png" width="420" alt="Hellstrap Light Mode">
+   <img src="https://github.com/midaskira/Hellstrap/raw/main/Images/Hellstrap-full-dark.png#gh-dark-mode-only" width="420" alt="Hellstrap Dark Mode">
 </p>
 
 <div align="center">
@@ -22,7 +22,6 @@ Hellstrap is Better fork of **Bloxstrap**, designed to enhance your Roblox exper
   </a>
   <img src="https://img.shields.io/github/stars/midaskira/Hellstrap?color=dd9900&style=flat-square" />
 </div>
-
 
 ## Ready to Switch?
 [Download Hellstrap here](https://github.com/midaskira/Hellstrap/releases) to enhance your Roblox experience with added features and customization.
@@ -67,7 +66,7 @@ Hellstrap is Better fork of **Bloxstrap**, designed to enhance your Roblox exper
 - Save the last opened settings page.
 - Apply custom bootstrapper themes.
 - Error fixes
-- Disable roblox updates
+- Disable Roblox updates
 
 **More features coming soon!**
 
