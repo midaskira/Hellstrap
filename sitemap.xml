@@ -1,0 +1,2512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/midaskira/Hellstrap</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/main/LICENSE.md</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/activity</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/issues</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/pulls</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/security</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/main/.gitignore</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/main/.gitmodules</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/main/Hellstrap.ico</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/main/Hellstrap.sln</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/main/Open%20to%20publish%20EXE.txt</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/main/README.md</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/main/dotnet</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/releases</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/releases/tag/V1.0.1.2</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/search?q=repo%3Amidaskira%2FHellstrap++language%3AC%23</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/labels</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/milestones</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/workflows/ci-debug.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/workflows/ci-release.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/workflows/dependabot/dependabot-updates</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/workflows/winget.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/caches</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13137795198</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/5b4c393c03fc08e127cc744bfa73763131c3bf35</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13137795198/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13137795087</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13137795087/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087313237</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/7ac292b53c3308e5f2ff13ff7884eda7d15f3b82</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087313237/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087313236</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087313236/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087313212</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087302187</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/5a4f5dda660efd14b95f721fcedc88b593ba00ec</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087302187/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087302185</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087302185/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087302154</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087239138</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/a49b74bcec584cff0e16a97ddbc61672f9290ca2</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087239138/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087239134</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087239134/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087239123</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/releases/tag/V1.0.0.9</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087239123/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087191053</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087191053/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087191050</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087191050/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087190989</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087185016</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/c4be3af720936082b8533fe429cdd910efe0777c</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087185016/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087185015</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087185015/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087184988</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087180508</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/7dd8fbe7497829a8d268b0fb2deabc29f6a6a646</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087180508/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087180506</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087180506/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087180470</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087174525</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/e6d7ba4aece26feeab06c234b99b3ff33504f7be</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087174525/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087174514</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087174514/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087174443</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087133243</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/5b66b9c78b5171c44acdfd96e890803cafb2ee2b</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087133243/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087133242</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087133242/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/b6d6c17bb38c8e0cd86272c3971e2ad9f6a537ad</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/757c2f8f0817c7dd6fd57a8d867020e343287aee</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/releases/tag/V1.0.1.1</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/0c33910ae15e6ca65ba9a01558f5989364b7ff1f</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/releases/tag/V1.0.1.0</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/80884ff3899800f6753024482f17c606ea2e8906</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/releases/tag/V1.0.0.8</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/47d318bfc8bf7a86c530159ef3495f274f58349b</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/releases/tag/V1.0.0.7</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/releases/tag/V1.0.0.6</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/694d13567abef373cf4a409c09fdd1a5fa47ffbc</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/releases/tag/V1.0.0.5</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/33983b307a0d364d3a1e67268b5e07fc0320cbad</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/releases/tag/V1.0.0.4</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/releases/tag/V1.0.0.3</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/labels?sort=name-asc</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/labels?sort=name-desc</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/labels?sort=count-desc</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/labels?sort=count-asc</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/labels/bug</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/labels/documentation</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/labels/duplicate</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/labels/enhancement</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/labels/good%20first%20issue</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/labels/help%20wanted</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/labels/invalid</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/labels/question</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/labels/wontfix</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/milestones?state=open</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/milestones?state=closed</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/main/.github/workflows/ci-debug.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087130780</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/18e10e7d0a215cfe8e3bd520ae677a34aa31563a</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087130780/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087127297</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/7225d3bbb2f821399899b08d93953edcb797a6bc</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087127297/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087063812</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/e78e6744644f2087c433b89a08b60ff96d4b558c</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087063812/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973770522</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/065e0608d516c918304e7f2d82723744a0f961d2</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973770522/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973758834</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/9e74c7963ffe935b21a295c177986fc3cccee9c0</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973758834/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973753346</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/58894373690a5c685334d5a589374129cd01b7c4</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973753346/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973747938</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/070bab0faa527826907e2a24b747daefd6902204</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973747938/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973681471</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/1dffe0ea02e00868e4f8254249e9442f9a454075</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973681471/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973663714</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/4aeb016743eb2d66c7fcba424ffdd801faf5fe24</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973663714/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973474348</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/52605b535e39c7bb2f83c9b3fa0a332f0c964f34</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973474348/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973459701</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973459701/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973453131</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973453131/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973446892</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973446892/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973435686</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/4f1257072ad73ce7a661c2f96472b3cbac6d45be</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973435686/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973332138</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973332138/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/main/.github/workflows/ci-release.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087130787</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087130787/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087127296</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087127296/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087063796</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087063796/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973770520</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973770520/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973758829</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973758829/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973753348</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973753348/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973747939</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973747939/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973681475</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973681475/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973663716</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973663716/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973474351</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973474351/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973459700</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973459700/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973453130</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973453130/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973446888</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973446888/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973435687</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973435687/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973332142</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973332142/workflow</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973474722</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973474669</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973474616</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973459912</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973459882</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973459853</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973453732</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973453642</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973453605</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973332343</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973332269</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973332262</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973332257</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973332220</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973332195</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087133138</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087130664</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087127155</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/main/.github/workflows/winget.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/caches?query=sort%3Aaccessed-desc</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/caches?query=sort%3Aaccessed-asc</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/caches?query=sort%3Acreated-desc</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/caches?query=sort%3Acreated-asc</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/caches?query=sort%3Asize-desc</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/caches?query=sort%3Asize-asc</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13137795198/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/6c30d783cb619f913cf839a8ffa77e3c00fb1435</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/5b4c393c03fc08e127cc744bfa73763131c3bf35/.github/workflows/ci-debug.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/login?return_to=https%3A%2F%2Fgithub.com%2Fmidaskira%2FHellstrap%2Fedit%2Fmain%2F.github%2Fworkflows%2Fci-debug.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13137795087/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/5b4c393c03fc08e127cc744bfa73763131c3bf35/.github/workflows/ci-release.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/login?return_to=https%3A%2F%2Fgithub.com%2Fmidaskira%2FHellstrap%2Fedit%2Fmain%2F.github%2Fworkflows%2Fci-release.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087313237/job/36519990934</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087313237/job/36520019922</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087313237/job/36520019816</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087313237/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/7ac292b53c3308e5f2ff13ff7884eda7d15f3b82/.github/workflows/ci-release.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087313236/job/36519990920</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087313236/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/7ac292b53c3308e5f2ff13ff7884eda7d15f3b82/.github/workflows/ci-debug.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087313212/job/36519990858</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087313212/job/36519997779</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087313212/job/36519997780</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087313212/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087302187/job/36519969252</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087302187/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/5a4f5dda660efd14b95f721fcedc88b593ba00ec/.github/workflows/ci-debug.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087302185/job/36519969257</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087302185/job/36520004382</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087302185/job/36520004279</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087302185/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/5a4f5dda660efd14b95f721fcedc88b593ba00ec/.github/workflows/ci-release.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087302154/job/36519969201</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087302154/job/36519974454</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087302154/job/36519974453</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087302154/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087239138/job/36519839871</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087239138/job/36519869801</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087239138/job/36519869697</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087239138/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/a49b74bcec584cff0e16a97ddbc61672f9290ca2/.github/workflows/ci-release.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087239134/job/36519839909</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087239134/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/a49b74bcec584cff0e16a97ddbc61672f9290ca2/.github/workflows/ci-debug.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087239123/job/36519839905</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087239123/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/a49b74bcec584cff0e16a97ddbc61672f9290ca2/.github/workflows/winget.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087191053/job/36519746784</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087191053/job/36519784178</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087191053/job/36519784298</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087191053/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087191050/job/36519746826</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087191050/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087190989/job/36519746834</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087190989/job/36519754712</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087190989/job/36519754713</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087190989/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087185016/job/36519735102</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087185016/job/36519766744</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087185016/job/36519766691</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087185016/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/c4be3af720936082b8533fe429cdd910efe0777c/.github/workflows/ci-release.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087185015/job/36519735113</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087185015/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/c4be3af720936082b8533fe429cdd910efe0777c/.github/workflows/ci-debug.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087184988/job/36519735316</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087184988/job/36519741922</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087184988/job/36519741919</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087184988/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087180508/job/36519725721</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087180508/job/36519766065</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087180508/job/36519765993</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087180508/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/7dd8fbe7497829a8d268b0fb2deabc29f6a6a646/.github/workflows/ci-release.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087180506/job/36519725717</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087180506/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/7dd8fbe7497829a8d268b0fb2deabc29f6a6a646/.github/workflows/ci-debug.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087180470/job/36519725674</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087180470/job/36519732995</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087180470/job/36519732996</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087180470/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087174525/job/36519713864</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087174525/job/36519748587</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087174525/job/36519748500</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087174525/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/e6d7ba4aece26feeab06c234b99b3ff33504f7be/.github/workflows/ci-release.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087174514/job/36519713600</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087174514/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/e6d7ba4aece26feeab06c234b99b3ff33504f7be/.github/workflows/ci-debug.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087174443/job/36519713733</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087174443/job/36519721336</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087174443/job/36519721341</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087174443/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087133243/job/36519621220</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087133243/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/5b66b9c78b5171c44acdfd96e890803cafb2ee2b/.github/workflows/ci-debug.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087133242/job/36519621214</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087133242/job/36519655610</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087133242/job/36519655508</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087133242/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/5b66b9c78b5171c44acdfd96e890803cafb2ee2b/.github/workflows/ci-release.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/259ae23b1cf019185cb712e404e7616d50241a78</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/ec53d1dc789f9ea55f61778e2f65feaee97afb09</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/5cc52a22803106c917387e440f6090be5027d225</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/5260d0feb65e872bfce613b00606333e6ee1c39c</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/0c8be2dced2fd17331a4ed59d47fbbf52ffbdc86</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/0f776ac4de8fb7f5274813aa399f8adfe8d6f58a</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/releases/tag/V1.0.0.1</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/releases/tag/V1.0.0.0</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/9e284751177fdda490fb36e85fd4ee9e3a6b8b34</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/releases/tag/V1.0.0.2</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087130780/job/36519614554</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087130780/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/18e10e7d0a215cfe8e3bd520ae677a34aa31563a/.github/workflows/ci-debug.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087127297/job/36519608113</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087127297/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/7225d3bbb2f821399899b08d93953edcb797a6bc/.github/workflows/ci-debug.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087063812/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/2848fc0becb8817c6fb539a7736d06a5c2be1bad</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/e78e6744644f2087c433b89a08b60ff96d4b558c/.github/workflows/ci-debug.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973770522/job/36182844174</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973770522/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/065e0608d516c918304e7f2d82723744a0f961d2/.github/workflows/ci-debug.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973758834/job/36182822239</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973758834/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/9e74c7963ffe935b21a295c177986fc3cccee9c0/.github/workflows/ci-debug.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973753346/job/36182811370</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973753346/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/58894373690a5c685334d5a589374129cd01b7c4/.github/workflows/ci-debug.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973747938/job/36182800463</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973747938/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/070bab0faa527826907e2a24b747daefd6902204/.github/workflows/ci-debug.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973681471/job/36182654028</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973681471/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/1dffe0ea02e00868e4f8254249e9442f9a454075/.github/workflows/ci-debug.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973663714/job/36182614879</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973663714/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/4aeb016743eb2d66c7fcba424ffdd801faf5fe24/.github/workflows/ci-debug.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973474348/job/36182158922</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973474348/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/52605b535e39c7bb2f83c9b3fa0a332f0c964f34/.github/workflows/ci-debug.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973459701/job/36182119819</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973459701/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973453131/job/36182101352</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973453131/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973446892/job/36182087254</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973446892/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973435686/job/36182062663</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973435686/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/9087278b136ea8742dbf03f3d811dd7454e3f377</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/4f1257072ad73ce7a661c2f96472b3cbac6d45be/.github/workflows/ci-debug.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973332138/job/36181842452</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973332138/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087130787/job/36519614541</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087130787/job/36519647692</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087130787/job/36519647566</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087130787/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/18e10e7d0a215cfe8e3bd520ae677a34aa31563a/.github/workflows/ci-release.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087127296/job/36519608119</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087127296/job/36519640569</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087127296/job/36519640641</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087127296/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/7225d3bbb2f821399899b08d93953edcb797a6bc/.github/workflows/ci-release.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087063796/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/e78e6744644f2087c433b89a08b60ff96d4b558c/.github/workflows/ci-release.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973770520/job/36182844244</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973770520/job/36182872297</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973770520/job/36182872179</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973770520/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/065e0608d516c918304e7f2d82723744a0f961d2/.github/workflows/ci-release.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973758829/job/36182822336</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973758829/job/36182856212</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973758829/job/36182856143</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973758829/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/9e74c7963ffe935b21a295c177986fc3cccee9c0/.github/workflows/ci-release.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973753348/job/36182811360</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973753348/job/36182848638</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973753348/job/36182848529</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973753348/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/58894373690a5c685334d5a589374129cd01b7c4/.github/workflows/ci-release.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973747939/job/36182800460</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973747939/job/36182836561</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973747939/job/36182836460</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973747939/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/070bab0faa527826907e2a24b747daefd6902204/.github/workflows/ci-release.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973681475/job/36182654030</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973681475/job/36182683380</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973681475/job/36182683533</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973681475/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/1dffe0ea02e00868e4f8254249e9442f9a454075/.github/workflows/ci-release.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973663716/job/36182614881</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973663716/job/36182652362</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973663716/job/36182652440</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973663716/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/4aeb016743eb2d66c7fcba424ffdd801faf5fe24/.github/workflows/ci-release.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973474351/job/36182158928</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973474351/job/36182184137</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973474351/job/36182184183</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973474351/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/52605b535e39c7bb2f83c9b3fa0a332f0c964f34/.github/workflows/ci-release.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973459700/job/36182119842</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973459700/job/36182159358</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973459700/job/36182159419</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973459700/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973453130/job/36182101364</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973453130/job/36182130881</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973453130/job/36182130983</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973453130/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973446888/job/36182087250</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973446888/job/36182107796</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973446888/job/36182107868</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973446888/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973435687/job/36182062652</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973435687/job/36182094757</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973435687/job/36182094674</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973435687/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/blob/4f1257072ad73ce7a661c2f96472b3cbac6d45be/.github/workflows/ci-release.yml</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973332142/job/36181842455</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973332142/job/36181859809</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973332142/job/36181859907</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973332142/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973474722/job/36182159914</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973474722/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973474669/job/36182159813</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973474669/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973474616/job/36182159680</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973474616/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973459912/job/36182120488</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973459912/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973459882/job/36182120371</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973459882/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973459853/job/36182120334</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973459853/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973453732/job/36182102771</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973453732/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973453642/job/36182102596</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973453642/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973453605/job/36182102433</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973453605/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973332343/job/36181842952</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973332343/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973332269/job/36181842811</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973332269/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973332262/job/36181842830</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973332262/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973332257/job/36181842809</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973332257/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973332220/job/36181842790</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973332220/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973332195/job/36181842719</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/12973332195/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087133138/job/36519622106</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087133138/job/36519631907</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087133138/job/36519631906</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087133138/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087130664/job/36519615594</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087130664/job/36519622052</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087130664/job/36519622085</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087130664/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087127155/job/36519609090</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087127155/job/36519615577</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087127155/job/36519615566</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/actions/runs/13087127155/usage</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/889ed5bfbe1dd6364ce1466c8fc208f64ed1c06a</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/8d1a740bc3687354b44a5ec4e79c935b31de2e39</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/55c7c1fd75df253d25ad4a049661494b9a657561</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/ddf194dc50a4ddd14fe1ccd3389388e60bd0faf1</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/485d1d47cc952673ac3f844aedffd59675135b2f</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/3889f803cd5de3bdf73853c2f21d3799162a1c01</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/21adbcf28ea5c9d1e35a7a712e40f6823fe447a7</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/3c9901cef96a1c66547bd8b074f716c26d98dcd1</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/b9f16a52e4ce75f18f9e539a72059405b5cdb9d3</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/d78820c0121978ea1c86654f6f34584d9fb5d93f</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/d9aa4a2c793c64db53575f44f4c96bbef0ac957c</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/e2b03d09b23087335f8e3e7a039c94b7b95b7bde</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/73f2786bad37f8aa1388db55894acaaf02c4be0e</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/ed88180d275ee6c4e99f0bbb2ddb11f4fbfe7d23</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/8b6325a09197e3c4ab78623b5c8738c6a37677c6</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/2ae425df6f9856916edc71b1c487fbf2020615c7</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/e138f18d0a5c78c51b970c1361f6a128a151b88c</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/a1493453d75b3ac4d6e8955c2e8694740edfb273</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/78390c21e1e9a16e6f74bc756778158b6609403e</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/midaskira/Hellstrap/commit/8a0f2c86485ac07c4cdd2f9ffc93cec2274739e7</loc>
+  <lastmod>2025-02-04T14:45:12+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+
+
+</urlset>
