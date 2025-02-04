@@ -1,6 +1,6 @@
 # Hellstrap - A Better Fork of Bloxstrap For More Features!
 
-Hellstrap is a better fork of **Bloxstrap**, designed to enhance your Roblox experience with additional features and fixes.
+Hellstrap is a better fork of [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap) , designed to enhance your Roblox experience with additional features and fixes.
 
 <p align="center">
    <img src="https://github.com/midaskira/Hellstrap/raw/main/Images/Hellstrap-full-light.png" width="420" alt="Hellstrap Light Mode">
