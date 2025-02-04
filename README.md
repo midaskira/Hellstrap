@@ -35,6 +35,15 @@ Hellstrap is a better fork of [Bloxstrap](https://github.com/bloxstraplabs/bloxs
 - **Submit an issue** on [GitHub Issues](https://github.com/midaskira/Hellstrap/issues).
 - **Join our Discord server** for immediate support: [Hellstrap Discord](https://discord.gg/UuxcfqPNnA).
 
+## Frequently Asked Question
+**Q: Is this malware?**
+
+**A:** No. The source code here is viewable to all, and it'd be impossible for us to slip anything malicious into the downloads without anyone noticing. Just be sure you're downloading it from an official source. The only two official sources are this GitHub repository and [Our Discord server](https://discord.gg/UuxcfqPNnA).
+
+## Installing
+Download the [Download Latest Hellstrap here](https://github.com/midaskira/Hellstrap/releases), and run it. Configure your preferences if needed, and install. That's about it!
+
+
 ---
 
 ## Features
@@ -82,11 +91,3 @@ Hellstrap is a better fork of [Bloxstrap](https://github.com/bloxstraplabs/bloxs
     <img src="https://i.imgur.com/xYTZU7x.png" alt="Hellstrap interface screenshot 3">
 </p>
 
-## Frequently Asked Questions
-
-**Q: Is this malware?**
-
-**A:** No. The source code here is viewable to all, and it'd be impossible for us to slip anything malicious into the downloads without anyone noticing. Just be sure you're downloading it from an official source. The only two official sources are this GitHub repository and [Our Discord server](https://discord.gg/UuxcfqPNnA).
-
-## Installing
-Download the [Download Latest Hellstrap here](https://github.com/midaskira/Hellstrap/releases), and run it. Configure your preferences if needed, and install. That's about it!
