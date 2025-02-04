@@ -24,7 +24,7 @@ Hellstrap is a better fork of [Bloxstrap](https://github.com/bloxstraplabs/bloxs
 
 ## Ready to Switch?
 [Download Hellstrap here](https://github.com/midaskira/Hellstrap/releases) to enhance your Roblox experience with added features and customization.
-# [Don't forget to leave a star!](https://github.com/midaskira/Hellstrap)
+# [Don't forget to leave a ⭐!](https://github.com/midaskira/Hellstrap)
 
 ---
 
