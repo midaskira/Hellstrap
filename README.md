@@ -1,3 +1,6 @@
+> [!CAUTION]
+> The only official places to download Hellstrap are this GitHub repository and [Our Discord server](https://discord.gg/UuxcfqPNnA). Any other websites offering downloads or claiming to be us are not controlled by us.
+
 # Hellstrap - A Better Fork of [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap) With Additional Features!
 
 Hellstrap is a better fork of [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap) , designed to enhance your Roblox experience with additional features and fixes.
@@ -71,9 +74,19 @@ Hellstrap is a better fork of [Bloxstrap](https://github.com/bloxstraplabs/bloxs
 
 ---
 
+
 ## V1.0.0.9 Screenshots
 <p align="center">
     <img src="https://i.imgur.com/5lMtLOW.png" alt="Hellstrap interface screenshot 1">
     <img src="https://i.imgur.com/cFBmtfO.png" alt="Hellstrap interface screenshot 2">
     <img src="https://i.imgur.com/xYTZU7x.png" alt="Hellstrap interface screenshot 3">
 </p>
+
+## Frequently Asked Questions
+
+**Q: Is this malware?**
+
+**A:** No. The source code here is viewable to all, and it'd be impossible for us to slip anything malicious into the downloads without anyone noticing. Just be sure you're downloading it from an official source. The only two official sources are this GitHub repository and [Our Discord server](https://discord.gg/UuxcfqPNnA).
+
+## Installing
+Download the [Download Latest Hellstrap here](https://github.com/midaskira/Hellstrap/releases), and run it. Configure your preferences if needed, and install. That's about it!
