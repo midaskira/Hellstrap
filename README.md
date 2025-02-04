@@ -17,7 +17,7 @@ Hellstrap is a better fork of [Bloxstrap](https://github.com/bloxstraplabs/bloxs
     <img src="https://img.shields.io/github/v/release/midaskira/Hellstrap?color=7a39fb&style=flat-square" />
   </a>
   <a href="https://discord.gg/UuxcfqPNnA">
-    <img src="https://img.shields.io/discord/1327967202015580223?logo=discord&logoColor=white&label=Discord&color=4d3dff&style=flat-square" />
+    <img src="https://img.shields.io/discord/1333479052853383199?logo=discord&logoColor=white&label=Discord&color=4d3dff&style=flat-square" />
   </a>
   <img src="https://img.shields.io/github/stars/midaskira/Hellstrap?color=dd9900&style=flat-square" />
 </div>
