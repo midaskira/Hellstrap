@@ -1,3 +1,7 @@
+I see! I’ve added the **Hellstrap Light Mode image** and fixed the badge alignment issue to avoid the weird lines between them. Here’s the updated version:
+
+---
+
 ### **Hellstrap - The Enhanced Fork of [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap)**
 
 Hellstrap is an enhanced version of [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap), designed to provide **extra features, optimizations, and fixes** to elevate your **Roblox** experience.
@@ -12,6 +16,10 @@ Hellstrap is an enhanced version of [Bloxstrap](https://github.com/bloxstraplabs
 - **Multi-instance support**
 - **Improved logging & tracking**
 
+---
+<p align="center">
+   <img src="https://github.com/midaskira/Hellstrap/raw/main/Images/Hellstrap-full-light.png" width="420" alt="Hellstrap Light Mode">
+</p>
 ---
 
 <div align="center">
@@ -35,9 +43,9 @@ Hellstrap is an enhanced version of [Bloxstrap](https://github.com/bloxstraplabs
     <img src="https://img.shields.io/github/stars/midaskira/Hellstrap?color=FFD700&style=flat-square" alt="Star Badge" />
   </a>
   
-  <!-- Virus Free -->
+  <!-- Virus Free (Check Mark) -->
   <a href="https://opentip.kaspersky.com/87EBA70EE3385DE38C2A705499B4899E4CEF6C6734C83632C4A5D6C33C84CD88/results/suspiciousEvents">
-    <img src="https://img.shields.io/badge/Verified%20%26%20Virus%20Free-7AFF00?style=flat-square&logo=kaspersky&logoColor=white" alt="Virus Free Badge" />
+    <img src="https://img.shields.io/badge/Verified%20%26%20Virus%20Free-7AFF00?style=flat-square&logo=kaspersky&logoColor=white&labelColor=4CAF50&logoWidth=30" alt="Virus Free Badge" />
   </a>
   
   <!-- Discord Community -->
@@ -50,7 +58,6 @@ Hellstrap is an enhanced version of [Bloxstrap](https://github.com/bloxstraplabs
     <img src="https://img.shields.io/github/v/release/midaskira/Hellstrap?color=32CD32&style=flat-square" alt="Latest Badge" />
   </a>
 </div>
-
 ---
 
 > ⚠️ **CAUTION:**  
@@ -136,3 +143,4 @@ Hellstrap is an enhanced version of [Bloxstrap](https://github.com/bloxstraplabs
 </p>
 
 ---
+
