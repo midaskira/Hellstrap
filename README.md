@@ -17,7 +17,7 @@ Hellstrap is an enhanced version of [Bloxstrap](https://github.com/bloxstraplabs
 [![Downloads Badge](https://img.shields.io/github/downloads/midaskira/Hellstrap/latest/total?color=FF4500&style=flat-square&label=Downloads)](https://github.com/midaskira/Hellstrap/releases/tag/V1.0.1.3)
 [![Star Badge](https://img.shields.io/github/stars/midaskira/Hellstrap?color=FF4500&style=flat-square&label=Star%20Post)](https://github.com/midaskira/Hellstrap/stargazers)
 [![Virus Free Badge](https://img.shields.io/badge/Verified%20%26%20Virus%20Free-FF4500?style=flat-square&logo=kaspersky&logoColor=white&labelColor=4CAF50&logoWidth=30&label=Virus%20Free)](https://opentip.kaspersky.com/87EBA70EE3385DE38C2A705499B4899E4CEF6C6734C83632C4A5D6C33C84CD88/results/suspiciousEvents)
-[![Discord Badge](https://img.shields.io/discord/1333479052853383199?logo=discord&logoColor=white&label=Discord&color=4d3dff&style=flat-square)
+[![Discord Badge](https://img.shields.io/discord/1333479052853383199?logo=discord&logoColor=white&label=Discord&color=4d3dff&style=flat-square)]
 
 
 ### 🚀 Key Features
