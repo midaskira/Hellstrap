@@ -1,6 +1,4 @@
 
----
-
 ### **Hellstrap - The Enhanced Fork of [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap)**
 
 Hellstrap is an enhanced version of [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap), designed to provide **extra features, optimizations, and fixes** to elevate your **Roblox** experience.
@@ -12,45 +10,32 @@ Hellstrap is an enhanced version of [Bloxstrap](https://github.com/bloxstraplabs
 </p>
 
 ---
+
+### **🛠️ Quick Links**
 <div align="center">
-  <!-- License with Emoji inside -->
   <a href="https://github.com/midaskira/Hellstrap/blob/f7d4b5fbec6319eac815d5e1a913fb522fb812e6/LICENSE.md">
     <img src="https://img.shields.io/github/license/midaskira/Hellstrap?style=flat-square&color=FFD700&label=License%20💳" alt="License Badge" />
   </a>&nbsp;&nbsp;
   
-  <!-- Versions with Emoji inside -->
   <a href="https://github.com/midaskira/Hellstrap/releases/tag/V1.0.1.3">
     <img src="https://img.shields.io/github/v/release/midaskira/Hellstrap?color=00BFFF&style=flat-square&label=Versions%20✨" alt="Versions Badge" />
   </a>&nbsp;&nbsp;
   
-  <!-- Downloads with Emoji inside -->
   <a href="https://github.com/midaskira/Hellstrap/releases/tag/V1.0.1.3">
     <img src="https://img.shields.io/github/downloads/midaskira/Hellstrap/latest/total?color=32CD32&style=flat-square&label=Downloads%20📥" alt="Downloads Badge" />
   </a>&nbsp;&nbsp;
   
-  <!-- Star Post! with Emoji inside -->
   <a href="https://github.com/midaskira/Hellstrap">
     <img src="https://img.shields.io/github/stars/midaskira/Hellstrap?color=FFD700&style=flat-square&label=Star%20Post!%20🌟" alt="Star Badge" />
   </a>&nbsp;&nbsp;
   
-  <!-- Virus Free with Check Mark inside -->
   <a href="https://opentip.kaspersky.com/87EBA70EE3385DE38C2A705499B4899E4CEF6C6734C83632C4A5D6C33C84CD88/results/suspiciousEvents">
     <img src="https://img.shields.io/badge/Verified%20%26%20Virus%20Free-7AFF00?style=flat-square&logo=kaspersky&logoColor=white&labelColor=4CAF50&logoWidth=30&label=Virus%20Free%20✅" alt="Virus Free Badge" />
   </a>&nbsp;&nbsp;
   
-  <!-- Discord Community with Emoji inside -->
   <a href="https://discord.com/invite/UuxcfqPNnA">
     <img src="https://img.shields.io/discord/1333479052853383199?logo=discord&logoColor=white&label=Discord%20💬&color=4d3dff&style=flat-square" alt="Discord Badge" />
-  </a>&nbsp;&nbsp;
-</div>
----
-
-
-  
-  <!-- Discord Community -->
-  <a href="https://discord.com/invite/UuxcfqPNnA">
-    <img src="https://img.shields.io/discord/1333479052853383199?logo=discord&logoColor=white&label=Discord&color=4d3dff&style=flat-square" alt="Discord Badge" />
-  </a>&nbsp;&nbsp;
+  </a>
 </div>
 
 ---
@@ -59,10 +44,8 @@ Hellstrap is an enhanced version of [Bloxstrap](https://github.com/bloxstraplabs
 > The only official sources to download Hellstrap are this GitHub repository and our [Discord server](https://discord.gg/UuxcfqPNnA). Any other websites offering downloads or claiming to be us are not controlled by us.
 
 ---
----
 
 ### 🚀 Key Features
-
 - **More features** than Bloxstrap
 - **Customizable settings** for greater control
 - **Performance optimizations** for smoother gameplay
