@@ -10,7 +10,6 @@ Hellstrap is an advanced and feature-rich fork of [Bloxstrap](https://github.com
 > [!CAUTION]
 > The only official places to download Hellstrap are this GitHub repository and [Our Discord server](https://discord.gg/UuxcfqPNnA). Any other websites offering downloads or claiming to be us are not controlled by us.
 
----
 
 <div align="center">
 
