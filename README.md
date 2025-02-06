@@ -27,13 +27,6 @@ Any other websites claiming to offer Hellstrap downloads are **not affiliated wi
 ✅ **Multi-instance support**  
 ✅ **Better logging & tracking**  
 
----
-
-## **📝 Ready to Upgrade?**  
-[**Download Hellstrap Now**](https://github.com/midaskira/Hellstrap/releases) and take your Roblox experience to the next level!  
-💖 **Enjoying it?** Don’t forget to [leave a ⭐!](https://github.com/midaskira/Hellstrap)  
-
----
 
 ## **🌟 Features & Enhancements**  
 
