@@ -3,7 +3,7 @@
 Hellstrap is an improved version of [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap), designed to provide **extra features, optimizations, and fixes** to enhance your **Roblox** experience.  
 
 <p align="center">
-   <img src="https://github.com/midaskira/Hellstrap/raw/main/Images/Hellstrap-full-dark.png" width="420" alt="Hellstrap Light Mode">
+   <img src="https://github.com/midaskira/Hellstrap/raw/main/Images/Hellstrap-full-light.png" width="420" alt="Hellstrap Light Mode">
 </p>
 
 <div align="center">
