@@ -1,5 +1,3 @@
----
-
 # **Hellstrap** - The Enhanced Fork of [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap)  
 
 Hellstrap is an improved version of [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap), designed to provide **extra features, optimizations, and fixes** to enhance your **Roblox** experience.  
