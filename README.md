@@ -1,4 +1,3 @@
-
 ### **Hellstrap - The Enhanced Fork of [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap)**
 
 Hellstrap is an enhanced version of [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap), designed to provide **extra features, optimizations, and fixes** to elevate your **Roblox** experience.
@@ -8,6 +7,12 @@ Hellstrap is an enhanced version of [Bloxstrap](https://github.com/bloxstraplabs
 <p align="center">
    <img src="https://github.com/midaskira/Hellstrap/raw/main/Images/Hellstrap-full-light.png" width="420" alt="Hellstrap Light Mode">
 </p>
+
+---
+
+> ⚠️ **CAUTION:**  
+> The only official places to download Hellstrap are this GitHub repository and our [Discord server](https://discord.gg/UuxcfqPNnA). Any other websites offering downloads or claiming to be us are not controlled by us.
+
 
 ---
 
