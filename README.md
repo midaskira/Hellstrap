@@ -1,7 +1,5 @@
->### ⚠️ **CAUTION**  
->The only official sources to download **Hellstrap** are:  
-- **This GitHub repository**  
-- **[Our Discord server](https://discord.gg/UuxcfqPNnA)**  
+> [!CAUTION]
+> The only official places to download Hellstrap are this GitHub repository and [Our Discord server](https://discord.gg/UuxcfqPNnA). Any other websites offering downloads or claiming to be us are not controlled by us.
 
 Any other websites claiming to offer Hellstrap downloads are **not affiliated with us**. Stay safe and download only from official sources.  
 
