@@ -1,6 +1,6 @@
-# **Hellstrap** - The Enhanced Fork of [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap)  
+# **Hellstrap** - The Enhanced Fork of [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap)
 
-Hellstrap is an improved version of [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap), designed to provide **extra features, optimizations, and fixes** to enhance your **Roblox** experience.  
+Hellstrap is an improved version of [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap), designed to provide **extra features, optimizations, and fixes** to enhance your **Roblox** experience.
 
 <div align="center">
   <!-- License -->
@@ -39,18 +39,10 @@ Hellstrap is an improved version of [Bloxstrap](https://github.com/bloxstraplabs
   </a>
 </div>
 
-
-</div>
-
-
-
-
-</div>
-
 > [!CAUTION]
 > The only official places to download Hellstrap are this GitHub repository and [Our Discord server](https://discord.gg/UuxcfqPNnA). Any other websites offering downloads or claiming to be us are not controlled by us.
 
-Any other websites claiming to offer Hellstrap downloads are **not affiliated with us**. Stay safe and download only from official sources.  
+Any other websites claiming to offer Hellstrap downloads are **not affiliated with us**. Stay safe and download only from official sources.
 
 ---
 
@@ -58,7 +50,6 @@ Any other websites claiming to offer Hellstrap downloads are **not affiliated wi
 - [📂 Download Hellstrap](https://github.com/midaskira/Hellstrap/releases)  
 - [💬 Join our Discord](https://discord.gg/UuxcfqPNnA)  
 - [⭐ Star Hellstrap on GitHub](https://github.com/midaskira/Hellstrap/stargazers)
-
 
 ---
 
@@ -69,8 +60,7 @@ Any other websites claiming to offer Hellstrap downloads are **not affiliated wi
 ✅ **Multi-instance support**  
 ✅ **Better logging & tracking**  
 
-
-## **🌟 Features & Enhancements**  
+## **🌟 Features & Enhancements**
 
 ### 🔹 **Integrations**  
 - **Player Logs** – Track players joining/leaving  
@@ -100,27 +90,27 @@ Any other websites claiming to offer Hellstrap downloads are **not affiliated wi
 - Various **error fixes & improvements**  
 - **Disable Roblox updates**  
 
-**More features coming soon! 🚀**  
+**More features coming soon! 🚀**
 
 ---
 
 ## **🛠️ Installation Guide**  
 1. **[Download the latest version](https://github.com/midaskira/Hellstrap/releases)**.  
 2. Run the installer and configure your settings.  
-3. Enjoy an improved Roblox experience!  
+3. Enjoy an improved Roblox experience!
 
 ---
 
 ## **🐞 Found a Bug? Need Help?**  
 💬 **[Join our Discord](https://discord.gg/UuxcfqPNnA)** for support.  
-📌 **[Submit an issue](https://github.com/midaskira/Hellstrap/issues)** on GitHub.  
+📌 **[Submit an issue](https://github.com/midaskira/Hellstrap/issues)** on GitHub.
 
 ---
 
 ## **❓ Frequently Asked Questions**  
 
 ### **Q: Is Hellstrap safe to use?**  
-✅ Yes! Hellstrap is **completely safe** and **open-source**. You can review the **full source code** in this repository. Just make sure you're downloading from the **official sources** listed above.  
+✅ Yes! Hellstrap is **completely safe** and **open-source**. You can review the **full source code** in this repository. Just make sure you're downloading from the **official sources** listed above.
 
 ---
 
@@ -129,5 +119,4 @@ Any other websites claiming to offer Hellstrap downloads are **not affiliated wi
     <img src="https://i.imgur.com/5lMtLOW.png" alt="Hellstrap interface screenshot 1">
     <img src="https://i.imgur.com/cFBmtfO.png" alt="Hellstrap interface screenshot 2">
     <img src="https://i.imgur.com/xYTZU7x.png" alt="Hellstrap interface screenshot 3">
-</p>  
-
+</p>
