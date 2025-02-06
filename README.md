@@ -8,7 +8,7 @@ Hellstrap is an enhanced version of [Bloxstrap](https://github.com/bloxstraplabs
    <img src="https://github.com/midaskira/Hellstrap/raw/main/Images/Hellstrap-full-light.png" width="420" alt="Hellstrap Light Mode">
 </p>
 
-> [!Precaution⚠]
+> [!Precaution]
 > The only official sources to download Hellstrap are this GitHub repository and our [Discord server](https://discord.gg/UuxcfqPNnA). Any other websites offering downloads or claiming to be us are not controlled by us.
 
 ---
