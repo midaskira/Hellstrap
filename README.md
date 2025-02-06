@@ -14,7 +14,7 @@ Hellstrap is an enhanced version of [Bloxstrap](https://github.com/bloxstraplabs
 ---
 <div align="center">
 
-[![License 💳](https://img.shields.io/badge/License-%E2%9C%94-%23FFCO0?style=for-the-badge)](https://github.com/midaskira/Hellstrap/blob/main/LICENSE.md)
+[![License 💳](https://img.shields.io/github/license/midaskira/Hellstrap?style=flat-square&color=FFD700)](https://github.com/midaskira/Hellstrap/blob/main/LICENSE.md)
 [![Releases ✨](https://img.shields.io/badge/Releases-%E2%9C%A8-%23aqua?style=for-the-badge)](https://github.com/midaskira/Hellstrap/releases)
 [![Latest 🆕](https://img.shields.io/badge/Latest-%F0%9F%86%95-%23aqua?style=for-the-badge)](https://github.com/midaskira/Hellstrap/releases)
 [![Discord 💬](https://img.shields.io/badge/Discord-%F0%9F%92%AC-%2380C7E3?style=for-the-badge)](https://discord.gg/UwccfqPNnA)
