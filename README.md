@@ -91,7 +91,7 @@ Hellstrap is an enhanced version of [Bloxstrap](https://github.com/bloxstraplabs
 ✅ Yes! Hellstrap is **completely safe** and **open-source**. You can review the **full source code** in this repository. Just make sure you're downloading from the **official sources** listed above.
 
 ---
-### **Credits:**
+### **Credits©️:**
 - Logo by [@midaskira](https://github.com/midaskira)
 - Hellstrap code by [@midaskira](https://github.com/midaskira) and [@KloBraticc](https://github.com/KloBraticc)
 ---
