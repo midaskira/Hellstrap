@@ -14,13 +14,14 @@ Hellstrap is an enhanced version of [Bloxstrap](https://github.com/bloxstraplabs
 ---
 <div align="center">
 
-[![License 💳](https://img.shields.io/github/license/midaskira/Hellstrap?style=flat-square&color=FFD700)](https://github.com/midaskira/Hellstrap/blob/main/LICENSE.md)
+[![License 💳](https://img.shields.io/github/license/midaskira/Hellstrap?style=flat-square&color=FFCO0)](https://github.com/midaskira/Hellstrap/blob/main/LICENSE.md)
 [![Releases ✨](https://img.shields.io/badge/Releases-%E2%9C%A8-%23aqua?style=for-the-badge)](https://github.com/midaskira/Hellstrap/releases)
-[![Latest 🆕](https://img.shields.io/badge/Latest-%F0%9F%86%95-%23aqua?style=for-the-badge)](https://github.com/midaskira/Hellstrap/releases)
-[![Discord 💬](https://img.shields.io/badge/Discord-%F0%9F%92%AC-%2380C7E3?style=for-the-badge)](https://discord.gg/UwccfqPNnA)
-[![Rate a Star 🌟](https://img.shields.io/badge/Rate%20a%20Star-%E2%98%85-%23FFD700?style=for-the-badge)](https://github.com/midaskira/Hellstrap)
-[![Virus Free ✔️](https://img.shields.io/badge/Virus%20Free-%E2%9C%94-%2300B140?style=for-the-badge)]()
+[![Latest 🆕](https://img.shields.io/github/v/release/midaskira/Hellstrap.svg?color=ADD8E6&style=flat-square)](https://github.com/midaskira/Hellstrap/releases)
+[![Discord 💬](https://img.shields.io/discord/1333479052853383199?logo=discord&logoColor=white&label=Discord&color=4d3dff&style=flat-square)](https://discord.gg/UwccfqPNnA)
+[![Rate a Star 🌟](https://img.shields.io/github/stars/midaskira/Hellstrap?color=FFD700&style=flat-square)](https://github.com/midaskira/Hellstrap)
+[![Virus Free ✔️](https://img.shields.io/badge/Virus%20Free-%E2%9C%94-%2300B140?style=for-the-badge)](https://opentip.kaspersky.com/87EBA70EE3385DE38C2A705499B4899E4CEF6C6734C83632C4A5D6C33C84CD88/results?tab=upload)
 [![Downloads 📥](https://img.shields.io/github/downloads/midaskira/Hellstrap/total?style=for-the-badge)](https://github.com/midaskira/Hellstrap/releases)
+
 
 </div>
 
