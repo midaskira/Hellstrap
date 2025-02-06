@@ -16,10 +16,13 @@ Hellstrap is an enhanced version of [Bloxstrap](https://github.com/bloxstraplabs
 - **Improved logging & tracking**
 
 ---
+
 <p align="center">
    <img src="https://github.com/midaskira/Hellstrap/raw/main/Images/Hellstrap-full-light.png" width="420" alt="Hellstrap Light Mode">
 </p>
+
 ---
+
 
 <div align="center">
   <!-- License -->
