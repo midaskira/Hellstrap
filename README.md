@@ -1,4 +1,3 @@
-I see! I’ve added the **Hellstrap Light Mode image** and fixed the badge alignment issue to avoid the weird lines between them. Here’s the updated version:
 
 ---
 
