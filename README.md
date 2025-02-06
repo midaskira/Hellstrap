@@ -23,7 +23,6 @@ Hellstrap is an enhanced version of [Bloxstrap](https://github.com/bloxstraplabs
 [![Downloads 📥](https://img.shields.io/github/downloads/midaskira/Hellstrap/total?style=for-the-badge)](https://github.com/midaskira/Hellstrap/releases)
 
 </div>
----
 
 ### 🚀 Key Features
 - **More features** than Bloxstrap
