@@ -24,10 +24,10 @@ Hellstrap is an advanced and feature-rich fork of [Bloxstrap](https://github.com
 
 
 </div>
-
+<div align="center">
 [![Virus Free ✔️](https://img.shields.io/badge/Virus%20Free-%E2%9C%94-%2300B140?style=for-the-badge)](https://opentip.kaspersky.com/87EBA70EE3385DE38C2A705499B4899E4CEF6C6734C83632C4A5D6C33C84CD88/results?tab=upload)
 [![Downloads 📥](https://img.shields.io/github/downloads/midaskira/Hellstrap/total?style=for-the-badge)](https://github.com/midaskira/Hellstrap/releases)
-
+</div>
 ## 🚀 Key Features
 ✅ **More features** than Bloxstrap  
 ✅ **Customizable settings** for greater control  
