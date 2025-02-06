@@ -7,22 +7,28 @@ Hellstrap is an improved version of [Bloxstrap](https://github.com/bloxstraplabs
 </p>
 
 <div align="center">
+ <div align="center">
   <a href="https://github.com/midaskira/Hellstrap/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/midaskira/Hellstrap?style=flat-square" />
+    <img src="https://img.shields.io/github/license/midaskira/Hellstrap?style=flat-square&label=💳%20Licensede" />
   </a>
   <a href="https://github.com/midaskira/Hellstrap/releases">
-    <img src="https://img.shields.io/github/downloads/midaskira/Hellstrap/latest/total?color=981bfe&style=flat-square" />
+    <img src="https://img.shields.io/github/downloads/midaskira/Hellstrap/latest/total?color=007bff&style=flat-square&label=🔄%20Releases" />
   </a>
   <a href="https://github.com/midaskira/Hellstrap/releases/latest">
-    <img src="https://img.shields.io/github/v/release/midaskira/Hellstrap?color=7a39fb&style=flat-square" />
+    <img src="https://img.shields.io/github/v/release/midaskira/Hellstrap?color=7a39fb&style=flat-square&label=🆕%20Latest%20Release" />
   </a>
   <a href="https://discord.gg/UuxcfqPNnA">
-    <img src="https://img.shields.io/discord/1333479052853383199?logo=discord&logoColor=white&label=Discord&color=4d3dff&style=flat-square" />
+    <img src="https://img.shields.io/discord/1333479052853383199?logo=discord&logoColor=white&label=💬%20Discord&color=4d3dff&style=flat-square" />
   </a>
-  <img src="https://img.shields.io/github/stars/midaskira/Hellstrap?color=dd9900&style=flat-square" />
+  <a href="https://github.com/midaskira/Hellstrap/stargazers">
+    <img src="https://img.shields.io/github/stars/midaskira/Hellstrap?color=dd9900&style=flat-square&label=⭐%20Stars" />
+  </a>
 <a href="https://opentip.kaspersky.com/87EBA70EE3385DE38C2A705499B4899E4CEF6C6734C83632C4A5D6C33C84CD88/results?tab=upload">
   <img src="https://img.shields.io/badge/✅%20100%25%20Verified-Not%20a%20Virus-%2300C851?style=flat-square" />
 </a>
+
+</div>
+
 
 
 
