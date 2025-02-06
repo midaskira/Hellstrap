@@ -13,6 +13,13 @@ Any other websites claiming to offer Hellstrap downloads are **not affiliated wi
 
 ---
 
+### **🌟 Join the Hellstrap Community!**  
+- [📂 Download Hellstrap](https://github.com/midaskira/Hellstrap/releases)  
+- [💬 Join our Discord](https://discord.gg/UuxcfqPNnA)  
+- ⭐ **Support us by starring this repo!**  
+
+---
+
 ## **✨ Why Choose Hellstrap?**  
 ✅ **More features** than Bloxstrap  
 ✅ **Customizable settings** for greater control  
@@ -89,9 +96,3 @@ Any other websites claiming to offer Hellstrap downloads are **not affiliated wi
     <img src="https://i.imgur.com/xYTZU7x.png" alt="Hellstrap interface screenshot 3">
 </p>  
 
----
-
-### **🌟 Join the Hellstrap Community!**  
-- [📂 Download Hellstrap](https://github.com/midaskira/Hellstrap/releases)  
-- [💬 Join our Discord](https://discord.gg/UuxcfqPNnA)  
-- ⭐ **Support us by starring this repo!**  
