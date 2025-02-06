@@ -12,6 +12,18 @@ Hellstrap is an enhanced version of [Bloxstrap](https://github.com/bloxstraplabs
 > The only official sources to download Hellstrap are this GitHub repository and our [Discord server](https://discord.gg/UuxcfqPNnA). Any other websites offering downloads or claiming to be us are not controlled by us.
 
 ---
+<div align="center">
+
+[![License 💳](https://img.shields.io/badge/License-%E2%9C%94-%23FFCO0?style=for-the-badge)](https://github.com/midaskira/Hellstrap/blob/main/LICENSE.md)
+[![Releases ✨](https://img.shields.io/badge/Releases-%E2%9C%A8-%23aqua?style=for-the-badge)](https://github.com/midaskira/Hellstrap/releases)
+[![Latest 🆕](https://img.shields.io/badge/Latest-%F0%9F%86%95-%23aqua?style=for-the-badge)](https://github.com/midaskira/Hellstrap/releases)
+[![Discord 💬](https://img.shields.io/badge/Discord-%F0%9F%92%AC-%2380C7E3?style=for-the-badge)](https://discord.gg/UwccfqPNnA)
+[![Rate a Star 🌟](https://img.shields.io/badge/Rate%20a%20Star-%E2%98%85-%23FFD700?style=for-the-badge)](https://github.com/midaskira/Hellstrap)
+[![Virus Free ✔️](https://img.shields.io/badge/Virus%20Free-%E2%9C%94-%2300B140?style=for-the-badge)]()
+[![Downloads 📥](https://img.shields.io/github/downloads/midaskira/Hellstrap/total?style=for-the-badge)](https://github.com/midaskira/Hellstrap/releases)
+
+</div>
+---
 
 ### 🚀 Key Features
 - **More features** than Bloxstrap
