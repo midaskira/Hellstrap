@@ -8,7 +8,7 @@ Hellstrap is an advanced and feature-rich fork of [Bloxstrap](https://github.com
    <img src="https://github.com/midaskira/Hellstrap/raw/main/Images/Hellstrap-full-light.png" width="420" alt="Hellstrap Light Mode">
 </p>
 
-> **⚠ Caution:** The only official sources to download Hellstrap are this GitHub repository and our [Discord server](https://discord.gg/UuxcfqPNnA). Any other websites offering downloads are **not affiliated** with us.
+> **⚠ Warning:** The only official sources to download Hellstrap are this GitHub repository and our [Discord server](https://discord.gg/UuxcfqPNnA). Any other websites offering downloads are **not affiliated** with us.
 
 ---
 
@@ -22,12 +22,16 @@ Hellstrap is an advanced and feature-rich fork of [Bloxstrap](https://github.com
 [![Discord 💬](https://img.shields.io/discord/1333479052853383199?logo=discord&logoColor=white&label=Discord&color=4d3dff&style=flat-square)](https://discord.gg/UuxcfqPNnA)
 [![Rate a Star 🌟](https://img.shields.io/github/stars/midaskira/Hellstrap?color=FFD700&style=flat-square)](https://github.com/midaskira/Hellstrap)
 
-
 </div>
+
 <div align="center">
+
 [![Virus Free ✔️](https://img.shields.io/badge/Virus%20Free-%E2%9C%94-%2300B140?style=for-the-badge)](https://opentip.kaspersky.com/87EBA70EE3385DE38C2A705499B4899E4CEF6C6734C83632C4A5D6C33C84CD88/results?tab=upload)
 [![Downloads 📥](https://img.shields.io/github/downloads/midaskira/Hellstrap/total?style=for-the-badge)](https://github.com/midaskira/Hellstrap/releases)
 </div>
+
+---
+
 ## 🚀 Key Features
 ✅ **More features** than Bloxstrap  
 ✅ **Customizable settings** for greater control  
