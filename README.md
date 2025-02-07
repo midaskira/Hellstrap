@@ -35,11 +35,11 @@ Hellstrap is an advanced and feature-rich fork of [Bloxstrap](https://github.com
 
 
 ## 🚀 Key Features
-✅ **More features** than Bloxstrap  
-✅ **Customizable settings** for greater control  
+✅ **More features** than Bloxstrap    
 ✅ **Performance optimizations** for a smoother experience  
 ✅ **Multi-instance support**  
 ✅ **Enhanced logging & tracking**  
+✅ **Bug Fixes**  
 
 ---
 
@@ -105,8 +105,9 @@ Hellstrap is an advanced and feature-rich fork of [Bloxstrap](https://github.com
 ---
 
 ## 🎨 Credits
-- **Logo** by [@midaskira](https://github.com/midaskira)  
-- **Hellstrap Code** by [@midaskira](https://github.com/midaskira) & [@KloBraticc](https://github.com/KloBraticc)  
+- **Logo** :[midaskira](https://github.com/midaskira)  
+- **Hellstrap Code** :[midaskira(Co-Owner)](https://github.com/midaskira) & [KloBraticc(Owner)](https://github.com/KloBraticc)  
+- **Inspiration** :[Bloxstrap](https://github.com/bloxstraplabs/bloxstrap)
 
 ---
 
