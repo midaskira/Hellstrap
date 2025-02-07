@@ -1,16 +1,12 @@
-</Head>
-
 # **Hellstrap - The Enhanced Fork of [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap)**
 
 Hellstrap is an advanced and feature-rich fork of [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap), designed to enhance your **Roblox** experience with additional features, optimizations, and improvements.
-
 
 <p align="center">
    <img src="https://github.com/midaskira/Hellstrap/raw/main/Images/Hellstrap-full-light.png" width="420" alt="Hellstrap Light Mode">
 </p>
 
-> [!CAUTION]
-> The only official places to download Hellstrap are this GitHub repository and [Our Discord server](https://discord.gg/UuxcfqPNnA). Any other websites offering downloads or claiming to be us are not controlled by us.
+> ⚠️ **CAUTION:** The only official places to download Hellstrap are this GitHub repository and [our Discord server](https://discord.gg/UuxcfqPNnA). Any other websites offering downloads or claiming to be us are not controlled by us.
 
 <p align="center">
   <a href="https://github.com/midaskira/Hellstrap/blob/main/LICENSE.md">
@@ -33,15 +29,14 @@ Hellstrap is an advanced and feature-rich fork of [Bloxstrap](https://github.com
   </a>
 </p>
 
-
-
+---
 
 ## 🚀 Key Features
-✅ **More features** than Bloxstrap    
-✅ **Performance optimizations** for a smoother experience  
-✅ **Multi-instance support**  
-✅ **Enhanced logging & tracking**  
-✅ **Bug Fixes**  
+- ✅ **More features** than Bloxstrap  
+- ✅ **Performance optimizations** for a smoother experience  
+- ✅ **Multi-instance support**  
+- ✅ **Enhanced logging & tracking**  
+- ✅ **Bug fixes and stability improvements**  
 
 ---
 
@@ -107,9 +102,9 @@ Hellstrap is an advanced and feature-rich fork of [Bloxstrap](https://github.com
 ---
 
 ## 🎨 Credits
-- **Logo** :[midaskira](https://github.com/midaskira)  
-- **Hellstrap Code** :[midaskira(Co-Owner)](https://github.com/midaskira) & [KloBraticc(Owner)](https://github.com/KloBraticc)  
-- **Inspiration** :[Bloxstrap](https://github.com/bloxstraplabs/bloxstrap)
+- **Logo**: [midaskira](https://github.com/midaskira)  
+- **Hellstrap Code**: [midaskira (Co-Owner)](https://github.com/midaskira) & [KloBraticc (Owner)](https://github.com/KloBraticc)  
+- **Inspiration**: [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap)  
 
 ---
 
@@ -121,6 +116,5 @@ Hellstrap is an advanced and feature-rich fork of [Bloxstrap](https://github.com
     <img src="https://i.imgur.com/xYTZU7x.png" alt="Hellstrap interface screenshot 3">
 </p>
 
-
-</body>
+✅ We aim to make things easy!
 
