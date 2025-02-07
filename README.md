@@ -121,7 +121,6 @@ Hellstrap is an advanced and feature-rich fork of [Bloxstrap](https://github.com
     <img src="https://i.imgur.com/xYTZU7x.png" alt="Hellstrap interface screenshot 3">
 </p>
 
-<meta name="google-site-verification" content="TxNgaf1RtGau9eD90EE0iCtiyEmGZTtviKQDsVPjPj8" />
 
 </body>
 
