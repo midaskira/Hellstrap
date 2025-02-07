@@ -14,9 +14,6 @@ Hellstrap is an advanced and feature-rich fork of [Bloxstrap](https://github.com
   <a href="https://github.com/midaskira/Hellstrap/blob/main/LICENSE.md">
     <img src="https://img.shields.io/github/license/midaskira/Hellstrap?style=flat-square&color=FFC000" alt="License">
   </a>
-  <a href="https://github.com/midaskira/Hellstrap/actions">
-    <img src="https://img.shields.io/github/actions/workflow/status/midaskira/Hellstrap/ci-release.yml?branch=main&label=Builds&style=flat-square" alt="Builds">
-  </a>
   <a href="https://github.com/midaskira/Hellstrap/releases">
     <img src="https://img.shields.io/github/downloads/midaskira/Hellstrap/latest/total?color=981bfe&label=Downloads&style=flat-square" alt="Downloads">
   </a>
