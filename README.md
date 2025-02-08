@@ -114,20 +114,6 @@ Hellstrap is an advanced and feature-rich fork of [Bloxstrap](https://github.com
 
 ## 📸 Hellstrap V1.0.0.9 Screenshots
 
-<style>
-  .screenshot-container {
-    display: flex;
-    justify-content: center;
-    gap: 10px;
-  }
-
-  .screenshot {
-    border-radius: 12px;
-    max-width: 100%;
-    height: auto;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-  }
-</style>
 
 <div class="screenshot-container">
     <img class="screenshot" src="https://i.imgur.com/5lMtLOW.png" alt="Hellstrap interface screenshot 1">
