@@ -15,28 +15,28 @@ Hellstrap is an advanced and feature-rich fork of [Bloxstrap](https://github.com
 
 <p align="center">
   <a href="https://github.com/midaskira/Hellstrap/blob/main/LICENSE.md">
-    <img src="https://img.shields.io/github/license/midaskira/Hellstrap?&color=FFC000&border_radius=3" alt="License">
+    <img src="https://img.shields.io/github/license/midaskira/Hellstrap?&color=FFC000&border_radius=3" alt="License" style="box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
   </a>
   <a href="https://github.com/midaskira/Hellstrap/releases">
-    <img src="https://img.shields.io/github/downloads/midaskira/Hellstrap/latest/total?color=981bfe&label=Downloads&border_radius=3" alt="Downloads">
+    <img src="https://img.shields.io/github/downloads/midaskira/Hellstrap/latest/total?color=981bfe&label=Downloads&border_radius=3" alt="Downloads" style="box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
   </a>
   <a href="https://github.com/midaskira/Hellstrap/releases/latest">
-    <img src="https://img.shields.io/github/v/release/midaskira/Hellstrap?color=7a39fb&label=Latest&border_radius=3" alt="Latest Release">
+    <img src="https://img.shields.io/github/v/release/midaskira/Hellstrap?color=7a39fb&label=Latest&border_radius=3" alt="Latest Release" style="box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
   </a>
-     <a href="https://github.com/midaskira/Hellstrap/stargazers">
-    <img src="[[https://img.shields.io/github/stars/midaskira/Hellstrap?color=FFD700&label=Stars&border_radius=3](https://img.shields.io/github/stars/midaskira/Hellstrap?color=FF4500&label=Stars&border_radius=5&style=flat-square
-(https://img.shields.io/github/stars/midaskira/Hellstrap?color=FFD700&label=Stars&border_radius=3)" alt="GitHub Stars">
+  <a href="https://github.com/midaskira/Hellstrap/stargazers">
+    <img src="https://img.shields.io/github/stars/midaskira/Hellstrap?color=FFD700&label=Stars&border_radius=3&style=flat-square" alt="GitHub Stars" style="box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
   </a>
 </p>
 
 <p align="center">
   <a href="https://discord.gg/UuxcfqPNnA">
-    <img src="https://img.shields.io/discord/1333479052853383199?logo=discord&logoColor=white&label=Discord&color=4d3dff&border_radius=3" alt="Join Discord">
+    <img src="https://img.shields.io/discord/1333479052853383199?logo=discord&logoColor=white&label=Discord&color=4d3dff&border_radius=3" alt="Join Discord" style="box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
   </a>
-    <a href="https://opentip.kaspersky.com/87EBA70EE3385DE38C2A705499B4899E4CEF6C6734C83632C4A5D6C33C84CD88/results?tab=upload">
-    <img src="https://img.shields.io/badge/Virus%20Free-✔️-00B140?&border_radius=3" alt="Virus Free">
+  <a href="https://opentip.kaspersky.com/87EBA70EE3385DE38C2A705499B4899E4CEF6C6734C83632C4A5D6C33C84CD88/results?tab=upload">
+    <img src="https://img.shields.io/badge/Virus%20Free-✔️-00B140?&border_radius=3" alt="Virus Free" style="box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
   </a>
 </p>
+
 
 
 
