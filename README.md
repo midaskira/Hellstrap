@@ -30,10 +30,10 @@ Hellstrap is an advanced and feature-rich fork of [Bloxstrap](https://github.com
 
 <p align="center">
   <a href="https://discord.gg/UuxcfqPNnA">
-    <img src="https://img.shields.io/discord/1333479052853383199?logo=discord&logoColor=white&label=Discord&color=4d3dff&style=plastic&border_radius=6" alt="Join Discord">
+    <img src="https://img.shields.io/discord/1333479052853383199?logo=discord&logoColor=white&label=Discord&color=4d3dff&style=plastic&border_radius=3" alt="Join Discord">
   </a>
     <a href="https://opentip.kaspersky.com/87EBA70EE3385DE38C2A705499B4899E4CEF6C6734C83632C4A5D6C33C84CD88/results?tab=upload">
-    <img src="https://img.shields.io/badge/Virus%20Free-✔️-00B140?style=plastic&border_radius=6" alt="Virus Free">
+    <img src="https://img.shields.io/badge/Virus%20Free-✔️-00B140?style=plastic&border_radius=3" alt="Virus Free">
   </a>
 </p>
 
