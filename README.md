@@ -25,7 +25,7 @@ Hellstrap is an advanced and feature-rich fork of [Bloxstrap](https://github.com
   </a>
      <a href="https://github.com/midaskira/Hellstrap/stargazers">
     <img src="[[https://img.shields.io/github/stars/midaskira/Hellstrap?color=FFD700&label=Stars&border_radius=3](https://img.shields.io/github/stars/midaskira/Hellstrap?color=FF4500&label=Stars&border_radius=5&style=flat-square
-)](https://img.shields.io/github/stars/midaskira/Hellstrap?color=FFD700&label=Stars&border_radius=3)" alt="GitHub Stars">
+(https://img.shields.io/github/stars/midaskira/Hellstrap?color=FFD700&label=Stars&border_radius=3)" alt="GitHub Stars">
   </a>
 </p>
 
