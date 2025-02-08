@@ -15,26 +15,27 @@ Hellstrap is an advanced and feature-rich fork of [Bloxstrap](https://github.com
 
 <p align="center">
   <a href="https://github.com/midaskira/Hellstrap/blob/main/LICENSE.md">
-    <img src="https://img.shields.io/github/license/midaskira/Hellstrap?style=for-the-badge&color=FFC000" alt="License">
+    <img src="https://img.shields.io/github/license/midaskira/Hellstrap?style=plastic&color=FFC000&border_radius=8" alt="License">
   </a>
   <a href="https://github.com/midaskira/Hellstrap/releases">
-    <img src="https://img.shields.io/github/downloads/midaskira/Hellstrap/latest/total?color=981bfe&label=Downloads&style=for-the-badge" alt="Downloads">
+    <img src="https://img.shields.io/github/downloads/midaskira/Hellstrap/latest/total?color=981bfe&label=Downloads&style=plastic&border_radius=8" alt="Downloads">
   </a>
   <a href="https://github.com/midaskira/Hellstrap/releases/latest">
-    <img src="https://img.shields.io/github/v/release/midaskira/Hellstrap?color=7a39fb&label=Latest&style=for-the-badge" alt="Latest Release">
+    <img src="https://img.shields.io/github/v/release/midaskira/Hellstrap?color=7a39fb&label=Latest&style=plastic&border_radius=8" alt="Latest Release">
   </a>
 </p>
 <p align="center">
   <a href="https://discord.gg/UuxcfqPNnA">
-    <img src="https://img.shields.io/discord/1333479052853383199?logo=discord&logoColor=white&label=Discord&color=4d3dff&style=for-the-badge" alt="Join Discord">
+    <img src="https://img.shields.io/discord/1333479052853383199?logo=discord&logoColor=white&label=Discord&color=4d3dff&style=plastic&border_radius=8" alt="Join Discord">
   </a>
   <a href="https://opentip.kaspersky.com/87EBA70EE3385DE38C2A705499B4899E4CEF6C6734C83632C4A5D6C33C84CD88/results?tab=upload">
-    <img src="https://img.shields.io/badge/Virus%20Free-✔️-00B140?style=for-the-badge" alt="Virus Free">
+    <img src="https://img.shields.io/badge/Virus%20Free-✔️-00B140?style=plastic&border_radius=8" alt="Virus Free">
   </a>
   <a href="https://github.com/midaskira/Hellstrap/stargazers">
-    <img src="https://img.shields.io/github/stars/midaskira/Hellstrap?color=FFD700&label=Stars&style=for-the-badge" alt="GitHub Stars">
+    <img src="https://img.shields.io/github/stars/midaskira/Hellstrap?color=FFD700&label=Stars&style=plastic&border_radius=8" alt="GitHub Stars">
   </a>
 </p>
+
 
 
 ---
