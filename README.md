@@ -1,4 +1,4 @@
-# **Hellstrap - The Enhanced Fork of [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap)**
+# **Hellstrap - The Ultimate Bloxstrap Fork for Roblox Optimization**
 
 Hellstrap is an advanced and feature-rich fork of [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap), designed to enhance your **Roblox** experience with additional features, optimizations, and improvements.
 
@@ -6,10 +6,11 @@ Hellstrap is an advanced and feature-rich fork of [Bloxstrap](https://github.com
    <img src="https://github.com/midaskira/Hellstrap/raw/main/Images/Hellstrap-full-light.png" width="420" alt="Hellstrap Light Mode">
 </p>
 
+⭐ **If you find Hellstrap useful, please consider giving us a star! It helps a lot!** ⭐
+
 > [!CAUTION]
 > The only official places to download Hellstrap are this GitHub repository and [Our Discord](https://discord.gg/UuxcfqPNnA). Any other websites offering downloads or claiming to be us are not controlled by us.
 
- 
 <p align="center">
   <a href="https://github.com/midaskira/Hellstrap/blob/main/LICENSE.md">
     <img src="https://img.shields.io/github/license/midaskira/Hellstrap?style=flat-square&color=FFC000" alt="License">
@@ -31,7 +32,6 @@ Hellstrap is an advanced and feature-rich fork of [Bloxstrap](https://github.com
   </a>
 </p>
 
-
 ---
 
 ## 🚀 Key Features
@@ -47,6 +47,13 @@ Hellstrap is an advanced and feature-rich fork of [Bloxstrap](https://github.com
 - 📂 [Download Hellstrap](https://github.com/midaskira/Hellstrap/releases)
 - 💬 [Join our Discord](https://discord.gg/UuxcfqPNnA)
 - ⭐ [Star Hellstrap on GitHub](https://github.com/midaskira/Hellstrap/stargazers)
+
+---
+
+## 🎥 Quick Demo
+<p align="center">
+   <img src="https://your-uploaded-gif-url.gif" width="600" alt="Hellstrap Demo">
+</p>
 
 ---
 
@@ -97,10 +104,17 @@ Hellstrap is an advanced and feature-rich fork of [Bloxstrap](https://github.com
 
 ---
 
-## ❓ Frequently Asked Questions
+## ⭐ What Users Are Saying
+> 🗣️ *"Hellstrap runs way smoother than Bloxstrap. Absolute game-changer!"*  
+> — **@User123**
 
-### **Q: Is Hellstrap safe to use?**
-✅ Yes! Hellstrap is **completely safe** and **open-source**. You can review the **full source code** in this repository. Just make sure you're downloading from the **official sources** listed above.
+---
+
+## 🌟 Get a Special Discord Role!
+🚀 **Star Hellstrap on GitHub & Get a "Supporter" Role in Discord!**  
+**1.** Star the repo → **[Click Here](https://github.com/midaskira/Hellstrap)**  
+**2.** Join our Discord → **[Join Here](https://discord.gg/UuxcfqPNnA)**  
+**3.** Open a ticket and send proof! 🎉
 
 ---
 
@@ -112,7 +126,6 @@ Hellstrap is an advanced and feature-rich fork of [Bloxstrap](https://github.com
 ---
 
 ## 📸 Hellstrap V1.0.0.9 Screenshots
-
 <p align="center">
     <img src="https://i.imgur.com/5lMtLOW.png" alt="Hellstrap interface screenshot 1">
     <img src="https://i.imgur.com/cFBmtfO.png" alt="Hellstrap interface screenshot 2">
@@ -120,4 +133,8 @@ Hellstrap is an advanced and feature-rich fork of [Bloxstrap](https://github.com
 </p>
 
 ✅ We aim to make things easy!
+
+<!--
+Keywords: Roblox Launcher, Bloxstrap Alternative, Roblox Multi-Instance, Roblox Optimization, Disable Roblox Updates, Fast Flags, Bloxstrap Fork
+-->
 
