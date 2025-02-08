@@ -7,7 +7,7 @@ Hellstrap is an advanced and feature-rich fork of [Bloxstrap](https://github.com
 </p>
 
 <p align="center">
-⭐ **If you find Hellstrap useful, please consider giving us a star! It helps a lot!** ⭐
+⭐ If you find Hellstrap useful, please consider giving us a star! It helps a lot! ⭐
 </p>
 
 > [!CAUTION]
