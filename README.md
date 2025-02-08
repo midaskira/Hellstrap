@@ -1,6 +1,6 @@
 # **Hellstrap - The Ultimate Bloxstrap Fork for Roblox Optimization**
 
-Hellstrap is an advanced and feature-rich fork of [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap), designed to enhance your **Roblox** experience with additional features, optimizations, and improvements.
+Hellstrap is an advanced, feature-packed fork of [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap), crafted to optimize and enrich your **Roblox** experience with additional features, improvements, and performance boosts.
 
 <p align="center">
    <img src="https://github.com/midaskira/Hellstrap/raw/main/Images/Hellstrap-full-light.png" width="420" alt="Hellstrap Light Mode">
@@ -37,19 +37,14 @@ Hellstrap is an advanced and feature-rich fork of [Bloxstrap](https://github.com
   </a>
 </p>
 
-
-
-
-
-
 ---
 
 ## 🚀 Key Features
-- ✅ **More features** than Bloxstrap  
-- ✅ **Performance optimizations** for a smoother experience  
-- ✅ **Multi-instance support**  
-- ✅ **Enhanced logging & tracking**  
-- ✅ **Bug fixes and stability improvements**  
+- ✅ **Enhanced functionality** over Bloxstrap  
+- ✅ **Optimized performance** for smooth operation  
+- ✅ **Multi-instance support** for launching multiple Roblox clients  
+- ✅ **Advanced logging & tracking** for smoother experience  
+- ✅ **Bug fixes & stability improvements**  
 
 ---
 
@@ -63,49 +58,49 @@ Hellstrap is an advanced and feature-rich fork of [Bloxstrap](https://github.com
 ## ✨ Features & Enhancements
 
 ### 🔹 **Integrations**
-- **Player Logs** – Track players joining and leaving  
-- **Message Logs** – Keep logs of chat messages  
+- **Player Logs** – Track players as they join and leave  
+- **Message Logs** – Log chat messages for monitoring  
 
 ### 🔹 **Fast Flags**
-- Quick **flag backups & restoration**  
-- Removed **editor warnings & flag validation**  
-- **Customizable** Roblox menu  
-- Extra **presets & shortcuts**  
+- Easy **flag backups & restoration**  
+- Eliminates **editor warnings & flag validation**  
+- **Customizable** Roblox menus for personal preferences  
+- Additional **presets & shortcuts** for quick use  
 
 ### 🔹 **Channels**
-- **Version selection & channel switching**  
-- **Cancel forced Roblox upgrades**  
+- Quick **version selection & channel switching**  
+- Option to **cancel forced Roblox updates**  
 
 ### 🔹 **Bootstrapper Enhancements**
-- **Bloxshade support** for better visuals  
-- **Multi-instance launching**  
+- **Bloxshade support** for improved visual aesthetics  
+- **Multi-instance launching** for Roblox  
 
 ### 🔹 **Appearance & Customization**
-- Custom **themes** for the launcher  
-- **Download status customization**  
+- Tailored **themes** for a personalized launcher  
+- Customizable **download status bar**  
 
 ### 🔹 **Extras**
-- Save the **last opened settings page**  
-- **Apply custom bootstrapper themes**  
-- Various **error fixes & improvements**  
-- **Disable Roblox updates**  
+- Save **last opened settings page** for convenience  
+- Apply **custom bootstrapper themes** for unique looks  
+- Various **bug fixes & updates** for smoother experience  
+- **Disable Roblox updates** to maintain desired version  
 
-💡 *More features coming soon!* 🚀
+💡 *Expect more features soon!* 🚀
 
 ---
 
 ## 🛠️ Installation Guide
 1. **[Download the latest version](https://github.com/midaskira/Hellstrap/releases)**  
 2. Run the installer and configure your settings  
-3. Enjoy an improved Roblox experience!  
+3. Enjoy a smoother Roblox experience with Hellstrap!  
 
-
+---
 
 ## 🐞 Found a Bug? Need Help?
 💬 **[Join our Discord](https://discord.gg/UuxcfqPNnA)** for support.  
-📌 **[Submit an issue](https://github.com/midaskira/Hellstrap/issues)** on GitHub.  
+📌 **[Submit an issue](https://github.com/midaskira/Hellstrap/issues)** on GitHub.
 
-
+---
 
 ## 🎨 Credits
 - **Logo**: [midaskira](https://github.com/midaskira)  
@@ -125,11 +120,10 @@ Hellstrap is an advanced and feature-rich fork of [Bloxstrap](https://github.com
    </p>
 </div>
 
-
 <p align="center">
-✅ We aim to make things easy!
+✅ We aim to make things easier and better for you!
 </p>
+
 <!--
 Keywords: Roblox Launcher, Bloxstrap Alternative, Roblox Multi-Instance, Roblox Optimization, Disable Roblox Updates, Fast Flags, Bloxstrap Fork
 -->
-
