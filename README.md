@@ -6,8 +6,9 @@ Hellstrap is an advanced and feature-rich fork of [Bloxstrap](https://github.com
    <img src="https://github.com/midaskira/Hellstrap/raw/main/Images/Hellstrap-full-light.png" width="420" alt="Hellstrap Light Mode">
 </p>
 
-> ⚠️ **CAUTION:** The only official places to download Hellstrap are this GitHub repository and [our Discord server](https://discord.gg/UuxcfqPNnA). Any other websites offering downloads or claiming to be us are not controlled by us.
->
+> [!CAUTION]
+> The only official places to download Bloxstrap are this GitHub repository and [Our Discord](https://discord.gg/UuxcfqPNnA). Any other websites offering downloads or claiming to be us are not controlled by us.
+
  
 <p align="center">
   <a href="https://github.com/midaskira/Hellstrap/blob/main/LICENSE.md">
