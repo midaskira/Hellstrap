@@ -23,13 +23,12 @@ Hellstrap is an advanced and feature-rich fork of [Bloxstrap](https://github.com
   <a href="https://github.com/midaskira/Hellstrap/releases/latest">
     <img src="https://img.shields.io/github/v/release/midaskira/Hellstrap?color=7a39fb&label=Latest&style=plastic&border_radius=6" alt="Latest Release">
   </a>
+     <a href="https://github.com/midaskira/Hellstrap/stargazers">
+    <img src="https://img.shields.io/github/stars/midaskira/Hellstrap?color=FFD700&label=Stars&style=plastic&border_radius=6" alt="GitHub Stars">
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/midaskira/Hellstrap/stargazers">
-    <img src="https://img.shields.io/github/stars/midaskira/Hellstrap?color=FFD700&label=Stars&style=plastic&border_radius=6" alt="GitHub Stars">
-  </a>
-
   <a href="https://discord.gg/UuxcfqPNnA">
     <img src="https://img.shields.io/discord/1333479052853383199?logo=discord&logoColor=white&label=Discord&color=4d3dff&style=plastic&border_radius=6" alt="Join Discord">
   </a>
