@@ -15,16 +15,16 @@ Hellstrap is an advanced and feature-rich fork of [Bloxstrap](https://github.com
 
 <p align="center">
   <a href="https://github.com/midaskira/Hellstrap/blob/main/LICENSE.md">
-    <img src="https://img.shields.io/github/license/midaskira/Hellstrap?style=plastic&color=FFC000&border_radius=6" alt="License">
+    <img src="https://img.shields.io/github/license/midaskira/Hellstrap?style=plastic&color=FFC000&border_radius=3" alt="License">
   </a>
   <a href="https://github.com/midaskira/Hellstrap/releases">
-    <img src="https://img.shields.io/github/downloads/midaskira/Hellstrap/latest/total?color=981bfe&label=Downloads&style=plastic&border_radius=6" alt="Downloads">
+    <img src="https://img.shields.io/github/downloads/midaskira/Hellstrap/latest/total?color=981bfe&label=Downloads&style=plastic&border_radius=3" alt="Downloads">
   </a>
   <a href="https://github.com/midaskira/Hellstrap/releases/latest">
-    <img src="https://img.shields.io/github/v/release/midaskira/Hellstrap?color=7a39fb&label=Latest&style=plastic&border_radius=6" alt="Latest Release">
+    <img src="https://img.shields.io/github/v/release/midaskira/Hellstrap?color=7a39fb&label=Latest&style=plastic&border_radius=3" alt="Latest Release">
   </a>
      <a href="https://github.com/midaskira/Hellstrap/stargazers">
-    <img src="https://img.shields.io/github/stars/midaskira/Hellstrap?color=FFD700&label=Stars&style=plastic&border_radius=6" alt="GitHub Stars">
+    <img src="https://img.shields.io/github/stars/midaskira/Hellstrap?color=FFD700&label=Stars&style=plastic&border_radius=3" alt="GitHub Stars">
   </a>
 </p>
 
