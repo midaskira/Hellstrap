@@ -14,7 +14,7 @@ Hellstrap is an advanced and feature-rich fork of [Bloxstrap](https://github.com
 <p align="center">
   <a href="https://github.com/midaskira/Hellstrap/blob/main/LICENSE.md">
     <img src="https://img.shields.io/github/license/midaskira/Hellstrap?style=flat-square&color=FFC000" alt="License">
-  </a>
+  </a> 
   <a href="https://github.com/midaskira/Hellstrap/releases">
     <img src="https://img.shields.io/github/downloads/midaskira/Hellstrap/latest/total?color=981bfe&label=Downloads&style=flat-square" alt="Downloads">
   </a>
@@ -101,12 +101,6 @@ Hellstrap is an advanced and feature-rich fork of [Bloxstrap](https://github.com
 ## 🐞 Found a Bug? Need Help?
 💬 **[Join our Discord](https://discord.gg/UuxcfqPNnA)** for support.  
 📌 **[Submit an issue](https://github.com/midaskira/Hellstrap/issues)** on GitHub.  
-
----
-
-## ⭐ What Users Are Saying
-> 🗣️ *"Hellstrap runs way smoother than Bloxstrap. Absolute game-changer!"*  
-> — **@User123**
 
 ---
 
