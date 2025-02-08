@@ -119,8 +119,9 @@ Hellstrap is an advanced and feature-rich fork of [Bloxstrap](https://github.com
     <img src="https://i.imgur.com/xYTZU7x.png" alt="Hellstrap interface screenshot 3">
 </p>
 
+<p align="center">
 ✅ We aim to make things easy!
-
+</p>
 <!--
 Keywords: Roblox Launcher, Bloxstrap Alternative, Roblox Multi-Instance, Roblox Optimization, Disable Roblox Updates, Fast Flags, Bloxstrap Fork
 -->
