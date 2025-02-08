@@ -96,21 +96,13 @@ Hellstrap is an advanced and feature-rich fork of [Bloxstrap](https://github.com
 2. Run the installer and configure your settings  
 3. Enjoy an improved Roblox experience!  
 
----
+
 
 ## 🐞 Found a Bug? Need Help?
 💬 **[Join our Discord](https://discord.gg/UuxcfqPNnA)** for support.  
 📌 **[Submit an issue](https://github.com/midaskira/Hellstrap/issues)** on GitHub.  
 
----
 
-## 🌟 Get a Special Discord Role!
-🚀 **Star Hellstrap on GitHub & Get a "Supporter" Role in Discord!**  
-**1.** Star the repo → **[Click Here](https://github.com/midaskira/Hellstrap)**  
-**2.** Join our Discord → **[Join Here](https://discord.gg/UuxcfqPNnA)**  
-**3.** Open a ticket and send proof! 🎉
-
----
 
 ## 🎨 Credits
 - **Logo**: [midaskira](https://github.com/midaskira)  
