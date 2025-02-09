@@ -68,7 +68,6 @@ Hellstrap is an advanced, feature-packed fork of [Bloxstrap](https://github.com/
 - Additional **presets & shortcuts** for quick use  
 
 ### 🔹 **Channels**
-- Quick **version selection & channel switching**  
 - Option to **cancel forced Roblox updates**  
 
 ### 🔹 **Bootstrapper Enhancements**
