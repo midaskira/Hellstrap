@@ -1,13 +1,15 @@
 # **Hellstrap - The Ultimate Bloxstrap Fork for Roblox Optimization**
 
-Hellstrap is an advanced, feature-packed fork of [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap), crafted to optimize and enrich your **Roblox** experience with additional features, improvements, and performance boosts.
+**Hellstrap is an advanced, feature-packed fork of [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap), crafted to optimize and enrich your **Roblox** experience with additional features, improvements, and performance boosts.**
 
 <p align="center">
    <img src="https://github.com/midaskira/Hellstrap/blob/main/Images/Hellstrap-full-light.png" width="420" alt="Hellstrap Light Mode">
 </p>
 
 <p align="center">
-⭐ If you find Hellstrap useful, please consider giving us a star! It helps a lot! ⭐
+
+##⭐ If you find Hellstrap useful, please consider giving us a star! It helps a lot! ⭐**
+
 </p>
 
 > [!CAUTION]
@@ -124,5 +126,5 @@ Hellstrap is an advanced, feature-packed fork of [Bloxstrap](https://github.com/
 </p>
 
 <!--
-Keywords: Roblox Launcher, Bloxstrap Alternative, Roblox Multi-Instance, Roblox Optimization, Disable Roblox Updates, Fast Flags, Bloxstrap Fork
+Keywords: Roblox Launcher, Bloxstrap Alternative, Roblox Multi-Instance, Roblox Optimization, Disable Roblox Updates, Fast Flags, Bloxstrap Fork,Fishstrap Fork
 -->
