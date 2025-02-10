@@ -12,7 +12,7 @@
 
 </p>
 
-> **[!CAUTION]**
+> [!CAUTION]
 > **The only official places to download Hellstrap are this GitHub repository and [Our Discord](https://discord.gg/UuxcfqPNnA). Any other websites offering downloads or claiming to be us are not controlled by us.**
 
 <p align="center">
