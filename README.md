@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/github/license/midaskira/Hellstrap?&color=FFC000&border_radius=3" alt="License" style="box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
   </a>
   <a href="https://github.com/midaskira/Hellstrap/releases">
-    <img src="https://img.shields.io/github/downloads/midaskira/Hellstrap/total?color=981bfe&label=Latest Downloads&border_radius=3" alt="Latest Downloads" style="box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
+    <img src="https://img.shields.io/github/downloads/midaskira/Hellstrap/total?color=981bfe&label=Downloads&border_radius=3" alt="Downloads" style="box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
   </a>
   <a href="https://github.com/midaskira/Hellstrap/releases">
     <img src="https://img.shields.io/github/v/release/midaskira/Hellstrap?color=7a39fb&label=Latest&border_radius=3" alt="GitHub Stars" style="box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
