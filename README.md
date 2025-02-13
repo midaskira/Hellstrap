@@ -119,7 +119,7 @@
 ## 🎨 Credits
 - **Logo**: [midaskira](https://github.com/midaskira)  
 - **Hellstrap Code**: [midaskira (Co-Owner)](https://github.com/midaskira) & [KloBraticc (Owner)](https://github.com/KloBraticc)  
-- **Contributors**: [stoof](https://github.com/stoofis),[Flemish](https://github.com/Flemish),[5070](https://github.com/5070),[DynamicFF](https://github.com/DynamicFastFlag),[TnoobixRT](https://github.com/TnoobixRT)
+- **Contributors**: [stoof](https://github.com/stoofis),[Flemish](https://github.com/LeventGameing),[5070](https://github.com/5070),[DynamicFF](https://github.com/DynamicFastFlag),[TnoobixRT](https://github.com/TnoobixRT)
 - **Inspiration**: [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap)  
 
 ---
