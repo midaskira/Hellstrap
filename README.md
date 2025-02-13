@@ -47,6 +47,10 @@
 - ✅ **Multi-instance support** for launching multiple Roblox clients  
 - ✅ **Advanced logging & tracking** for smoother experience  
 - ✅ **Bug fixes & stability improvements**  
+- ✅ **Cross-Game Teleport** – Added an option to enable cross-game teleport (fixes Error 773)  
+- ✅ **Channels Manager** – Switch between Production, Live, and ZLive channels  
+- ✅ **Hardware Acceleration Toggle** – Disable hardware acceleration for better performance  
+- ✅ **UI Improvements** – Enhanced readability, theme previews, and redesigned shortcuts  
 
 ---
 
@@ -68,23 +72,32 @@
 - Eliminates **editor warnings & flag validation**  
 - **Customizable** Roblox menus for personal preferences  
 - Additional **presets & shortcuts** for quick use  
+- **Removed outdated flags** that were no longer relevant  
 
 ### 🔹 **Channels**
 - Option to **cancel forced Roblox updates**  
+- **New Channels Manager** – Switch between Production, Live, and ZLive  
 
 ### 🔹 **Bootstrapper Enhancements**
 - **Bloxshade support** for improved visual aesthetics  
 - **Multi-instance launching** for Roblox  
+- **Fixed launch errors & improved Windows detection**  
+- **Uninstall settings now save when checkbox is checked**  
 
 ### 🔹 **Appearance & Customization**
 - Tailored **themes** for a personalized launcher  
 - Customizable **download status bar**  
+- **Improved UI layout & icons for better readability**  
+- **Theme Preview Mode** – See changes before applying  
+- **Draggable cursor image & fixed cursor issues**  
 
 ### 🔹 **Extras**
 - Save **last opened settings page** for convenience  
 - Apply **custom bootstrapper themes** for unique looks  
 - Various **bug fixes & updates** for smoother experience  
 - **Disable Roblox updates** to maintain desired version  
+- **Rewritten code for better performance and stability**  
+- **Added beta warning to Roblox Updates to inform users of potential bugs**  
 
 💡 *Expect more features soon!* 🚀
 
@@ -106,25 +119,7 @@
 ## 🎨 Credits
 - **Logo**: [midaskira](https://github.com/midaskira)  
 - **Hellstrap Code**: [midaskira (Co-Owner)](https://github.com/midaskira) & [KloBraticc (Owner)](https://github.com/KloBraticc)  
+- **Contributors**: @DynamicFastFlag, @5070, @stoof, @Flemish  
 - **Inspiration**: [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap)  
 
 ---
-
-## 📸 Hellstrap V1.0.0.9 Screenshots
-
-<div class="screenshot-container">
-   
-<p align="center">
-    <img class="screenshot" src="https://i.imgur.com/5lMtLOW.png" alt="Hellstrap interface screenshot 1">
-    <img class="screenshot" src="https://i.imgur.com/cFBmtfO.png" alt="Hellstrap interface screenshot 2">
-    <img class="screenshot" src="https://i.imgur.com/xYTZU7x.png" alt="Hellstrap interface screenshot 3">
-   </p>
-</div>
-
-<p align="center">
-✅ We aim to make things easier and better for you!
-</p>
-
-<!--
-Keywords: Bloxstrap Alternative, Roblox Multi-Instance, Roblox Optimization, Disable Roblox Updates, Fast Flags, Bloxstrap Fork
--->
