@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+
 **⭐ If you find Hellstrap useful, please consider giving us a star! It helps a lot! ⭐**
 
 </p>
